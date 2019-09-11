@@ -1,0 +1,23 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+</keymap>
