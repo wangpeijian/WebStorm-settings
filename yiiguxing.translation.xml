@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimized" />
       <item value="contacts" />
       <item value="model" />
       <item value="submit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
