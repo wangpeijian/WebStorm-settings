@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Approval" />
+      <item value="Approv" />
       <item value="terminated" />
       <item value="non-properly" />
       <item value="deleted" />
@@ -29,7 +31,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
