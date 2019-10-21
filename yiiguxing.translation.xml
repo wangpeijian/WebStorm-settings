@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw" />
       <item value="long" />
       <item value="palette" />
       <item value="刷新" />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
