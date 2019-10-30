@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoice" />
       <item value="merge" />
       <item value="merage" />
       <item value="Priview" />
@@ -39,7 +40,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="BENGALI" value="1" />
         <entry key="HINDI" value="1" />
       </map>
