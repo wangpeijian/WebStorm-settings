@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Position" />
       <item value="Rode" />
       <item value="sword" />
       <item value="label" />
@@ -48,7 +49,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="DUTCH" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HINDI" value="1" />
