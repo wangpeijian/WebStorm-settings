@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immediate" />
       <item value="print-panel" />
       <item value="menu" />
       <item value="serve" />
@@ -50,12 +51,11 @@
       <item value="record" />
       <item value="ergodic N" />
       <item value="Panle" />
-      <item value="choose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="DUTCH" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="HINDI" value="1" />
