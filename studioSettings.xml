@@ -3,6 +3,7 @@
     <option name="generalSettings">
       <GeneralSettings>
         <option name="enableInternalFeatures" value="false" />
+        <option name="macAddress" value="00-E1-8C-B3-E6-56" />
       </GeneralSettings>
     </option>
     <option name="sdkSettings">
@@ -11,7 +12,6 @@
           <list>
             <SdkInfo>
               <option name="sdkType" value="ODPS_CMD" />
-              <option name="version" value="0.27.2" />
               <option name="installedLocation" value="C:\Users\peijian.wang\.WebStorm2019.1\config\plugins\odps-studio-intellij\odpscmd_public" />
               <option name="isDefault" value="true" />
             </SdkInfo>
