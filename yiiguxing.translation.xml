@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
+      <item value="Record" />
+      <item value="Account Book" />
+      <item value="enter Into" />
       <item value="Approve" />
       <item value="revocation" />
       <item value="bill" />
@@ -47,15 +51,11 @@
       <item value="long" />
       <item value="palette" />
       <item value="刷新" />
-      <item value="Approval" />
-      <item value="Approv" />
-      <item value="terminated" />
-      <item value="non-properly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="BENGALI" value="1" />
