@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Original" />
       <item value="adjust" />
       <item value="recode" />
       <item value="is Activit" />
@@ -50,12 +51,11 @@
       <item value="merage" />
       <item value="f-merage" />
       <item value="Invoice" />
-      <item value="Priview" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="BENGALI" value="1" />
