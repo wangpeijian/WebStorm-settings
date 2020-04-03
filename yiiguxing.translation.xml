@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content" />
+      <item value="dir" />
       <item value="Sync" />
       <item value="文件" />
       <item value="Original" />
@@ -49,13 +51,12 @@
       <item value="搜索" />
       <item value="serach" />
       <item value="merge" />
-      <item value="merage" />
-      <item value="f-merage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="BENGALI" value="1" />
