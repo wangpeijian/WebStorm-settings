@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bord" />
+      <item value="carousel-item-panel" />
       <item value="loaded" />
       <item value="Content" />
       <item value="dir" />
@@ -49,14 +51,13 @@
       <item value="label" />
       <item value="switch." />
       <item value="series" />
-      <item value="搜索" />
-      <item value="serach" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="69" />
         <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="BENGALI" value="1" />
