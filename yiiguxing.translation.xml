@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status" />
+      <item value="logout" />
       <item value="contact" />
       <item value="middle" />
       <item value="control" />
@@ -49,13 +51,11 @@
       <item value="Satisfy" />
       <item value="decorators" />
       <item value="experimental" />
-      <item value="card" />
-      <item value="Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
