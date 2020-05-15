@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="ECS_INSTANCE_BASE_TEST" type="PLAIN_TEXT" />
-      <mapping pattern=".ignore" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
