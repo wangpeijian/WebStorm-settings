@@ -10,6 +10,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor ExclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="meta 1" />
