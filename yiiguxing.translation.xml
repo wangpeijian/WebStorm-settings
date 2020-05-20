@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Control" />
+      <item value="Curve" />
       <item value="black" />
       <item value="format" />
       <item value="formate" />
@@ -49,13 +51,11 @@
       <item value="Slice" />
       <item value="immediate" />
       <item value="print-panel" />
-      <item value="menu" />
-      <item value="serve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
