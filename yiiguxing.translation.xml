@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fount" />
       <item value="rollback" />
       <item value="上一个" />
       <item value="prve" />
@@ -50,12 +51,11 @@
       <item value="convert" />
       <item value="Subscription" />
       <item value="QUENE" />
-      <item value="panel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
