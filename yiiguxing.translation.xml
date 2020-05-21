@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exit" />
       <item value="velocity" />
       <item value="Control" />
       <item value="Curve" />
@@ -50,12 +51,11 @@
       <item value="Format" />
       <item value="collection" />
       <item value="Slice" />
-      <item value="immediate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
