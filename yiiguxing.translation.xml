@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="large" />
+      <item value="中等" />
+      <item value="小" />
       <item value="exit" />
       <item value="velocity" />
       <item value="Control" />
@@ -9,7 +12,6 @@
       <item value="format" />
       <item value="formate" />
       <item value="test" />
-      <item value="large" />
       <item value="grey" />
       <item value="theme" />
       <item value="crom" />
@@ -49,13 +51,11 @@
       <item value="consult" />
       <item value="Expresion" />
       <item value="Format" />
-      <item value="collection" />
-      <item value="Slice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
